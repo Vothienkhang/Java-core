@@ -1,4 +1,4 @@
-package Exception;
+package Exception.ArrayExample;
 
 import java.util.Scanner;
 
